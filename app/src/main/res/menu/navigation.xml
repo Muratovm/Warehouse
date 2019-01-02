@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/navigation_menu">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navigation_lock"
+            android:fillColor="#FF000000"
+            android:checked="true"
+            android:icon="@drawable/img_lock_closed"
+            android:title="Lock"/>
+
+        <item
+            android:id="@+id/navigation_forum"
+            android:fillColor="#FF000000"
+            android:checked="false"
+            android:icon="@drawable/img_forum"
+            android:title="Forum"/>
+
+        <item
+            android:id="@+id/navigation_notes"
+            android:fillColor="#FF000000"
+            android:checked="false"
+            android:icon="@drawable/img_notes"
+            android:title="Notes"/>
+
+        <item
+            android:id="@+id/navigation_reminders"
+            android:fillColor="#FF000000"
+            android:checked="false"
+            android:icon="@drawable/img_bell"
+            android:title="Reminders"/>
+
+        <item
+            android:id="@+id/navigation_settings"
+            android:fillColor="#FF000000"
+            android:checked="false"
+            android:icon="@drawable/img_settings"
+            android:title="Settings"/>
+    </group>
+</menu>

@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="darkBlue">#01579b</color>
+    <color name="fadedBlue">#006064</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="antiAccent">#40ff89</color>
+    <color name="off_white">#e7e7e7</color>
+
+    <color name="white">#ffffff</color>
+
+    <color name="MaterialRed">#b71c1c</color>
+    <color name="MaterialPink">#ad1457</color>
+    <color name="MaterialAmber">#ffa000</color>
+    <color name="MaterialYellow">#fdd835</color>
+    <color name="MaterialLime">#827717</color>
+    <color name="MaterialGreen">#00c853</color>
+    <color name="MaterialCyan">#00838f</color>
+    <color name="MaterialBlue">#0d47a1</color>
+    <color name="MaterialPurple">#6a1b9a</color>
+
+    <color name="ClayRed">#BF5837</color>
+    <color name="DeepBlue">#19547F</color>
+    <color name="DarkCyan">#00818b</color>
+    <color name="ForestGreen">#134024</color>
+    <color name="RichPurple">#493c9f</color>
+
+    <color name="DarkBeige">#4A4544</color>
+
+    <color name="colorPrimary2">#3F51B5</color>
+    <color name="colorPrimaryDark2">#303F9F</color>
+
+    <color name="text">#000000</color>
+    <color name="text2">#ffffff</color>
+
+    <color name="nav_background">#4b4a4a</color>
+    <color name="nav_background2">#ffffff</color>
+
+    <color name="md_green_500">#13c910</color>
+    <color name="md_green_700">#027306</color>
+
+    <color name="gray">#444440</color>
+
 </resources>
